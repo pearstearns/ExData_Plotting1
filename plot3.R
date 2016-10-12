@@ -1,5 +1,6 @@
 #Our Requirements for this script
-require(dplyr, lubridate)
+require(dplyr)
+require(lubridate)
 
 #Downloading and Unzipping, and Reading the file for Maximum Reproducability
 file <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
